@@ -4,7 +4,7 @@ describe MethodsPracticeHelpers do
   include MethodsPracticeHelpersSpecHelpers
   include MethodsPracticeHelpers
 
-  describe '#image_tag', :pending do
+  describe '#image_tag' do
 
     before(:each) do
       @src = random_string

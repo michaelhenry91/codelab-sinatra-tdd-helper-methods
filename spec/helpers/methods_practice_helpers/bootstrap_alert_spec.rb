@@ -4,7 +4,7 @@ describe MethodsPracticeHelpers do
   include MethodsPracticeHelpersSpecHelpers
   include MethodsPracticeHelpers
 
-  describe '#bootstrap_alert', :pending do
+  describe '#bootstrap_alert' do
 
     context 'when passed both a message and a type' do
 

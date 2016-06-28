@@ -3,7 +3,7 @@ require_relative '../../../helpers/methods_practice_helpers'
 describe MethodsPracticeHelpers do
   include MethodsPracticeHelpers
 
-  describe '#current_date_and_time', :pending do
+  describe '#current_date_and_time' do
 
     it 'returns the properly formatted date and time for February 14, 2015 at 7:27pm' do
       class Time
